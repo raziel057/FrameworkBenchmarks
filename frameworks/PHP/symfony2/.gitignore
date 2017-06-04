@@ -1,5 +1,6 @@
-/app/cache
-/app/logs
+/var/cache
+/var/logs
+/var/sessions
 /bin
 /vendors
 /vendor
